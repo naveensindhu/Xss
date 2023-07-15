@@ -1,5 +1,6 @@
 find!XSS Vulnerability Google Dorks
 
+inurl:quiz inurl:&
 inurl:find.php?
 inurl:search.html
 inurl:find.html
