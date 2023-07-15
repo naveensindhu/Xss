@@ -1,0 +1,88 @@
+find!XSS Vulnerability Google Dorks
+
+inurl:find.php?
+inurl:search.html
+inurl:find.html
+inurl:search.aspx
+inurl:find.aspx
+inurl:".php?cmd="
+inurl:".php?z="
+inurl:".php?q="
+inurl:".php?search="
+inurl:".php?query="
+inurl:".php?searchstring=
+inurl:".php?keyword="
+inurl:".php?file="
+inurl:".php?years="
+inurl:".php?txt="
+inurl:".php?tag="
+inurl:".php?max="
+inurl:".php?from="
+inurl:".php?author="
+inurl:".php?pass="
+inurl:".php?feedback="
+inurl:".php?mail="
+inurl:".php?cat="
+inurl:".php?vote="
+inurl:search.php?q=
+inurl:com_feedpostold/feedpost.php?url=
+inurl:scrapbook.php?id=
+inurl:headersearch.php?sid=
+inurl:/poll/default.asp?catid=
+inurl:/search_results.php?search=
+inurl:com_feedpostold/feedpost.php?url=
+inurl:/products/orkutclone/scrapbook.php?id=
+inurl:/products/classified/headersearch.php?sid=
+inurl:/poll/default.asp?catid=
+inurl:/search_results.php?search=Search&k=
+/preaspjobboard//Employee/emp_login.asp?msg1=
+pages/match_report.php?mid= pages/match_report.php?mid=
+/notice.php?msg= /notice.php?msg=
+/gen_confirm.php?errmsg= /gen_confirm.php?errmsg=
+/index.php?option=com_easygb&Itemid=
+/2wayvideochat/index.php?r=
+/view.php?PID= /view.php?PID=
+/Property-Cpanel.html?pid= /Property-Cpanel.html?pid=
+/showproperty.php?id= /showproperty.php?id=
+/vehicle/buy_do_search/?order_direction=
+/elms/subscribe.php?course_id= /elms/subscribe.php?course_id=
+/winners.php?year=2008&type= /winners.php?year=2008&type=
+/schoolmv2/html/studentmain.php?*******=
+/site_search.php?sfunction= /site_search.php?sfunction=
+/search.php?search_keywords= /search.php?search_keywords=
+/hexjector.php?site= /hexjector.php?site=
+/news.php?id= /news.php?id=
+/index.php?view=help&faq=1&ref=
+inurl:"contentPage.php?id="
+inurl:"displayResource.php?id="
+intext:"Website by Mile High Creative"
+/index.php?option=com_reservations&task=askope& amp;nidser=2&namser="com_reservations"
+/info.asp?page=fullstory&key=1&news_type=ne ws&onvan=
+/ser/parohija.php?id= /ser/parohija.php?id=
+/strane/pas.php?id= /strane/pas.php?id=
+/main.php?sid= /main.php?sid=
+inurl:".php?cmd="
+inurl:".php?z="
+inurl:".php?q="
+inurl:".php?search="
+inurl:".php?query="
+inurl:".php?searchstring="
+inurl:".php?keyword="
+inurl:".php?file="
+inurl:".php?years="
+inurl:".php?txt="
+inurl:".php?tag="
+inurl:".php?max="
+inurl:".php?from="
+inurl:".php?author="
+inurl:".php?pass="
+inurl:".php?feedback="
+inurl:".php?mail="
+inurl:".php?cat="
+inurl:".php?vote="
+inurl:search.php?q=
+inurl:com_feedpostold/feedpost.php?url=
+inurl:scrapbook.php?id=
+inurl:headersearch.php?sid=
+inurl:/poll/default.asp?catid=
+inurl:/search_results.php?search=
